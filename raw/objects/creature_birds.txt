@@ -853,7 +853,6 @@ John Tait from Harrow, Middlesex: "Hunting food for vermin"
 [NATURAL]
 [LARGE_ROAMING]
 [PETVALUE:25]
-[BENIGN]
 [PET]
 [FLIER]
 [BONECARN]
