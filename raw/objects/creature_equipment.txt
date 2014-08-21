@@ -21,3 +21,4 @@ Wagons-as-creatures is most likely going to be replaced once moving siege engine
 [ALL_ACTIVE]
 [TRADE_CAPACITY:15000]
 [MUNDANE]
+[ODOR_LEVEL:0]
